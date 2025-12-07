@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub](https://img.shields.io/github/repo-size/myriamBenAbd0607/bee-opt-project)
 # 🐝 BEE-OPT: Artificial Bee Colony Algorithm
 
 A comprehensive Python implementation of the Artificial Bee Colony (ABC) optimization algorithm with educational tutorials, benchmarks, and practical examples.
